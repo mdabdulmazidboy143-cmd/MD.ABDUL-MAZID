@@ -1,0 +1,6 @@
+{
+  "name": "ঔষধ রিমাইন্ডার",
+  "description": "সকাল, দুপুর ও সন্ধ্যা তিন বেলার ঔষধ সেবনের রিমাইন্ডার, নোটিফিকেশন অ্যালার্ট এবং স্বয়ংক্রিয় সেবন হিস্ট্রি ট্র্যাকার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
